@@ -34,8 +34,6 @@
   </a>
 </p>
 
-## Hi there 👋
-
 <!--
 **sjy8336/sjy8336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
