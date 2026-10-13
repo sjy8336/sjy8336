@@ -1,4 +1,4 @@
-안녕하세요! 송지영입니다!
+안녕하세요!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
