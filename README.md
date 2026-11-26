@@ -34,7 +34,7 @@
 | | |
 | :---: | :--- |
 | 💼 | **Now** · **XNSOLUTION** 재직 중 (2026.10 ~) |
-| 🎨 | **UI/UX** · Mets HIT 인턴십, 삼성 One UI 8.x Watch Principle 문서 마이그레이션 참여 |
+| 🎨 | **UI/UX** · Mets HIT 인턴십, 삼성 One UI 8.x Principle 및 GUI 문서 Figma 마이그레이션 참여 |
 | 🧩 | **Full-Stack** · React · Next.js 화면부터 FastAPI · Spring Boot 서버, DB 설계까지 |
 | 🤖 | **AI** · Whisper, LangChain, LangGraph, RAG로 실제로 동작하는 AI 기능 구현 |
 | 🏆 | **Leader** · 팀 프로젝트 3번 중 2번 팀장, 기업 제안 프로젝트 **최우수상** |
