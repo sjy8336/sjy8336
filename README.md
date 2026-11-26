@@ -25,16 +25,14 @@
 💭 &nbsp;*"좋은 사용자 경험은 탄탄한 데이터 흐름과 로직이 받쳐줄 때 완성된다고 믿어요."*
 
 </td></tr></table>
-🎸 → 💻<br>
-기타 치던 실용음악과 학생이 **Sonic Pi**에서 코드가 음악이 되는 순간에 반해 개발을 시작했어요. <br>
-웹 퍼블리싱과 **UI/UX 인턴십**으로 화면을 다듬는 법을 배웠고, <br>지금은 화면 뒤의 서버·DB·API까지 만드는 **풀스택 개발자**로 일하고 있어요.
-<br/>
-<br/>
+
+기타 치던 실용음악과 학생이 **Sonic Pi**에서 코드가 음악이 되는 순간에 반해 개발을 시작했어요. 🎸 → 💻
+웹 퍼블리싱과 **UI/UX 인턴십**으로 화면을 다듬는 법을 배웠고, 지금은 화면 뒤의 서버·DB·API까지 만드는 **풀스택 개발자**로 일하고 있어요.
 
 | | |
 | :---: | :--- |
-| 💼 | **Now** · **XNSOLUTION** 재직 중 (2026.10 ~) |
-| 🎨 | **UI/UX** · Mets HIT 인턴십, 삼성 One UI 8.x Principle 및 GUI 문서 Figma 마이그레이션 참여 |
+| 💼 | **Now** · **Xnsolution** 재직 중 (2026.10 ~) |
+| 🎨 | **UI/UX** · Mets HIT 인턴십, 삼성 One UI 8.x Watch Principle 문서 마이그레이션 참여 |
 | 🧩 | **Full-Stack** · React · Next.js 화면부터 FastAPI · Spring Boot 서버, DB 설계까지 |
 | 🤖 | **AI** · Whisper, LangChain, LangGraph, RAG로 실제로 동작하는 AI 기능 구현 |
 | 🏆 | **Leader** · 팀 프로젝트 3번 중 2번 팀장, 기업 제안 프로젝트 **최우수상** |
