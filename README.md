@@ -168,8 +168,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sjy8336&show_icons=true&hide_border=true&bg_color=FFF5F8&title_color=F06292&icon_color=F48FB1&text_color=6B4E71&rank_icon=github&count_private=true" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjy8336&layout=compact&hide_border=true&bg_color=F3F9FF&title_color=64B5F6&text_color=6B4E71&langs_count=6" alt="langs"/>
 
-<img width="90%" src="https://ghchart.rshah.org/F48FB1/sjy8336" alt="pink contributions"/>
-
 <br/><br/>
 
 <img width="85%" src="https://streak-stats.demolab.com?user=sjy8336&hide_border=true&background=FFF5F8&ring=F48FB1&fire=F06292&currStreakLabel=F06292&sideLabels=6B4E71&currStreakNum=6B4E71&sideNums=6B4E71&dates=A28CA6&stroke=FFD6E7" alt="streak"/>
